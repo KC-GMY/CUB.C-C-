@@ -1,0 +1,4 @@
+Sum = 3.000000
+Difference = -1.000000
+Product = 2.000000
+Division= 0.500000
